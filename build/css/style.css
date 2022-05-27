@@ -946,6 +946,11 @@ a:hover {
           justify-content: space-between;
 }
 
+.footer .contacts__lower svg:hover path {
+    fill: #a7eaf3;
+
+}
+
 .location,
 .number {
   margin-bottom: 20px;
